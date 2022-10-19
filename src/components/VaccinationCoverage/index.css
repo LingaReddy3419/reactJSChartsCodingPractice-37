@@ -1,0 +1,12 @@
+.chart-container {
+  background-color: #1c1c2b;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+.chart-heading {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 16px;
+}
